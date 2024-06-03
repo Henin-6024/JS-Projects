@@ -1,2 +1,2 @@
-title: Password Generator
-Working: Generates new and strong passwords
+Series of Javascript Projects
+
